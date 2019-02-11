@@ -1,0 +1,4 @@
+program oscar; var perro: int; { perro = ctef ;}
+program oscar; var perro: int; {}
+program oscar; {}
+
